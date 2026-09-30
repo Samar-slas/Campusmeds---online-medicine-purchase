@@ -1,10 +1,8 @@
-# Project Statement
+# Campusmeds---online-medicine-purchase
 
-## CampusMeds – Campus Pharmacy Management System
+## Problem Statement
 
 CampusMeds is a simple Python and SQLite3 based campus pharmacy management system developed to solve a practical problem faced by college hostel students.
-
-As a hostel student, it can be difficult and inconvenient to leave the hostel just to purchase basic medicines, especially when someone is not feeling well. The purpose of CampusMeds is to make the medicine-ordering process easier by allowing students to use their college ID to interact with the campus pharmacy.
 
 The system allows a student to:
 
@@ -37,8 +35,8 @@ The application uses four main SQLite tables:
 - `orders` – stores medicine order details
 - `requests` – stores requests for unavailable medicines
 
-## Expected Outcome
+  ## Target Users
 
-CampusMeds demonstrates how basic Python programming concepts such as loops, conditions, user input and database operations can be combined to build a useful real-world application.
-
-The project was developed by **Samar Yadav (26BAI10521)** as a Python Essentials college project.
+- Hostellers
+- Pharma Shop Owners
+- Hospitals
